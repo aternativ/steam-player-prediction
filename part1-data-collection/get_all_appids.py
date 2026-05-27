@@ -25,6 +25,7 @@ def fetch_game_ids():
 
         else:
             print(f"Failed to fetch data, status code: {response.status_code}")
+
     except Exception as e:
         print(f"An error occured: {e}")
         return
