@@ -3,7 +3,35 @@ import json
 import time
 
 def is_explicit(game_data):
-    pass
+    descriptors = game_data.get("content_descriptors", {})
+    ids = descriptors.get("ids", [])
+
+    explicit_ids = {1, 3}
+
+    if any(id in ids for id in explicit_ids):
+        return True
+    return False
+
+def filter_explicit():
+    try:
+        with open("details_temp.json", "r", encoding="utf-8") as file:
+            details = json.load(file)
+    
+    except Exception as e:
+        print(f"An error occured: {e}")
+
+    filtered_list = []
+
+    for game_data in details:
+        if not is_explicit(game_data):
+            filtered_list.append(game_data)
+    
+    try:
+        with open("filtered_list.json", "w", encoding="utf-8") as file:
+            json.dump(filtered_list, file, indent=4)
+        
+    except Exception as e:
+        print(f"An error occured: {e}")
 
 def fetch_game_data(appid):
     url = f"https://store.steampowered.com/api/appdetails?appids={appid}&filters=basic,price_overview,genres,release_date,content_descriptors"
@@ -61,13 +89,12 @@ def get_and_filter_app_details():
                 game_json.append(game_data)
                 success = True
                 time.sleep(1.5)
-                
-
-            
+                  
     try:
-        with open("filtered_subset.json", "w", encoding="utf-8") as file:
+        with open("details_temp.json", "w", encoding="utf-8") as file:
             json.dump(game_json, file, indent=4)
     except Exception as e:
         print(f"An error occured: {e}")
 
 get_and_filter_app_details()
+filter_explicit()
