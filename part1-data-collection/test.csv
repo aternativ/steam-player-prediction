@@ -1,0 +1,217 @@
+name,required_age,is_free,initial_price,discount_percent,isOther,isAction,isAdventure,isRPG,isIndie,isStrategy,release_year,current_players
+NEAVE 2,0,False,299,0,1,1,0,0,1,0,2022,0
+INTO THE RUN,0,False,320,0,1,0,0,0,1,0,2026,0
+Mines and Magic,0,False,1400,0,0,0,0,0,0,1,2024,1
+Alice and The Ancients,0,False,499,0,1,0,1,0,1,0,2023,0
+I Hate My Waifu Streamer,0,False,975,0,1,0,0,0,1,0,2025,6
+Rooster Saga: I Believe I Can Fly,0,False,99,0,1,1,0,0,0,0,2026,0
+Distant Worlds 2,0,False,4899,0,1,0,0,0,0,1,2022,78
+Halftime Heroes,0,False,299,0,0,1,1,1,0,0,2023,0
+Puppy Dog: Jigsaw Puzzles,0,False,79,0,1,0,0,0,0,0,2016,1
+It Is A Good Knight To Die,0,False,199,0,0,1,0,0,1,0,2024,0
+Call of Cthulhu®,0,False,1999,85,0,0,1,1,0,0,2018,56
+The Lost Identity,0,False,399,0,0,1,1,0,1,0,2025,0
+Merp in Merpworld,0,False,650,0,0,0,1,0,1,0,2025,0
+Ultimate Zombie Defense,0,False,499,0,1,1,1,0,0,1,2020,23
+Run-Gunners' Revenge,0,False,0,0,0,1,0,0,1,0,2027,0
+Achilles: Legends Untold,0,False,2299,70,1,1,1,1,1,0,2023,0
+"I, Cyborg",0,False,689,0,0,0,1,1,1,0,2018,0
+Nomad,0,False,0,0,0,1,1,1,1,0,2027,0
+SHRIMP GAME: KRILL CONFIRMED,0,True,0,0,1,1,0,0,1,0,2026,11
+Invoker Tactics,0,False,499,0,0,0,0,0,0,1,2025,0
+Vigilantes,0,False,1399,0,0,0,0,1,1,1,2018,0
+摆脱它,0,False,199,0,0,0,1,0,0,0,2026,0
+Lost To Riches,0,False,299,0,0,1,0,0,0,0,2024,0
+#DRIVE Rally,0,False,1899,0,1,1,0,0,1,0,2025,3
+John The Retriever,0,True,0,0,1,0,1,1,1,1,2027,0
+Two Worlds Epic Edition,0,False,1479,0,0,0,0,1,0,0,2009,41
+GourMelee,0,False,659,0,1,1,0,0,1,0,2019,0
+COVID 23 : Test Labs,0,True,0,0,1,1,0,0,1,0,2023,0
+4th of July VR,0,False,299,0,1,1,0,0,0,0,2017,0
+Atana,0,False,0,0,0,0,0,1,1,0,2027,0
+PowerWash Adventure,0,False,779,0,1,0,0,0,1,0,2023,0
+Voice of Cards: The Forsaken Maiden,0,False,2999,0,0,0,0,1,0,0,2022,1
+Koni: The Secrets of Castle,0,False,79,0,1,1,1,0,1,0,2022,0
+Isle of the Jötunn,0,False,0,0,1,1,1,0,1,0,2027,0
+Baker Business 3,0,False,699,0,1,0,0,0,1,0,2022,1
+Zula Global,0,True,0,0,1,1,0,0,0,0,2018,85
+SKIRMISH,0,True,0,0,1,1,1,0,1,1,2023,0
+StarGazers,0,True,0,0,1,0,1,0,1,0,2027,0
+Taival,0,False,0,0,1,0,1,1,1,0,2027,0
+Shadows of Eldham,0,False,109,0,1,0,0,1,1,0,2024,0
+Holy Journey of Salvation,0,False,299,0,1,1,1,0,1,0,2023,0
+1000-BIT,0,False,499,0,1,0,0,0,0,0,2025,0
+Dark Gem Tower Defense,0,False,499,0,0,0,0,0,0,1,2024,0
+Nemesis Perspective,0,True,0,0,0,1,0,0,1,0,2016,0
+Crupt,0,False,975,0,0,1,1,0,1,0,2022,0
+You are apt,0,False,199,0,1,0,0,0,1,0,2019,0
+Wreck the Insects,0,False,79,0,0,1,0,0,1,0,2020,0
+DreamLand,0,True,0,0,0,0,0,1,0,0,2016,0
+Puzzling Places - 3D Jigsaw Sim,0,False,799,0,1,0,0,0,1,0,2026,0
+Splash Road,0,False,79,0,1,0,0,0,0,0,2021,0
+Dimwarper,0,True,0,0,1,0,1,0,1,0,2022,0
+EcoGnomix,0,False,1950,0,1,0,0,1,1,1,2024,1
+Primal Rift,0,False,399,0,0,0,0,1,0,0,2024,0
+末法仙路,0,False,569,0,1,0,1,1,1,1,2019,0
+CatCha,0,False,0,0,0,0,0,0,1,1,2027,0
+ALEON's Nightmare 2,0,False,499,0,0,0,1,0,1,0,2023,0
+Deflect Boy,0,False,199,0,0,1,0,0,0,0,2024,0
+Interstellar Logistics Inc,0,False,499,0,1,0,0,0,0,0,2016,0
+Hot Dawg,0,False,0,0,0,1,1,1,1,0,2027,0
+Chronicles of Fantasy Heroes,0,False,0,0,0,0,1,1,1,1,2027,0
+Dreamcraft: Lumberjack,0,False,0,0,1,0,1,0,1,0,2027,0
+Please adopt me. # AI needs repair.,0,False,569,0,1,0,1,0,1,0,2020,0
+Bernband,0,False,0,0,0,0,1,0,1,0,2027,0
+Solasta: Crown of the Magister,0,False,2999,0,0,0,1,1,0,1,2021,0
+Even For Eternia,0,False,739,0,0,0,0,1,0,0,2019,0
+Operação Prato,0,False,0,0,1,1,1,0,0,0,2027,0
+Heroes of Havoc: Idle Adventures,0,True,0,0,1,0,0,1,0,0,2016,2
+Detective Bass in Fish out of Water,0,False,299,0,1,0,1,0,1,0,2026,0
+Stage 3: Azaria,0,False,1424,0,1,1,1,1,1,0,2018,0
+Ki11er Clutter,0,False,819,75,1,0,0,0,1,0,2021,2
+Mystery Solitaire The Arkham Spirits,0,False,499,0,1,0,0,0,0,0,2019,0
+Super Turbo Racing,0,False,2049,0,1,0,0,0,0,0,2022,0
+KOOK,0,False,0,0,0,1,0,0,1,0,2027,0
+Fibbage XL,0,False,999,40,1,0,0,0,1,1,2016,4
+RPG Stories,0,False,2999,0,1,0,1,1,0,1,2023,2
+Imberite Idle,0,False,0,0,1,0,0,0,0,0,2027,0
+Sonder : Lights of Little Tokyo,0,False,0,0,1,0,0,0,1,0,2027,0
+Endless Racing,0,False,109,0,1,0,0,0,1,0,2025,0
+OFFROAD VR,0,False,779,0,1,0,0,0,0,0,2023,0
+秘封旅行 ~ Secret Sealing Travel,0,False,499,0,1,0,0,1,1,0,2020,6
+Your Story,0,False,1299,0,0,0,1,0,1,0,2023,0
+Survive: The Alien Tracing,0,False,0,0,1,1,1,0,1,0,2027,0
+The Hanged Man,0,False,299,0,1,0,1,0,1,0,2018,1
+CUFFBUST,0,False,975,0,1,1,1,0,1,1,2025,1
+Sundered®: Eldritch Edition,0,False,1950,0,0,1,1,0,1,0,2017,3
+SlipDream Resonator,0,False,879,0,1,1,0,0,1,0,2023,0
+Codenames,0,False,0,0,1,0,0,0,1,0,2027,0
+Unbeatable Maze,0,False,199,0,0,0,0,0,0,1,2025,0
+Format,0,False,2899,0,1,0,0,0,1,0,2024,0
+Defense Zone 2,0,False,329,0,0,0,0,0,1,1,2014,3
+Captain The Runner,0,False,99,51,1,0,0,0,1,0,2018,0
+RRRR,0,False,199,0,1,1,1,0,1,0,2019,0
+HellEscape,0,False,399,0,0,1,0,0,1,0,2024,0
+Doors & Rooms,0,False,569,0,0,0,1,0,1,1,2019,0
+"Don't Stop, Girlypop!",0,False,1999,0,0,1,1,0,0,0,2026,2
+The Midnight Walk,0,False,2999,40,0,0,1,0,1,0,2025,8
+Immortal Path(星河仙道),0,False,0,0,1,0,1,1,1,0,2027,0
+MX Nitro: Unleashed,0,False,819,0,1,0,0,0,0,0,2017,1
+AKAIITO HD REMASTER,0,False,1379,0,0,0,1,0,0,0,2023,1
+Berserker 2: The Saga of Hilde,0,False,589,0,0,1,1,0,1,0,2026,0
+HOP TOP,0,False,499,0,0,1,0,0,1,0,2024,0
+Bunhouse,0,False,1679,0,1,0,0,0,1,0,2021,0
+Car Parking Real Driving Sim,0,False,99,0,1,1,0,0,1,0,2023,1
+Surreal House,0,False,779,45,1,0,1,0,1,0,2023,1
+Novice Dungeon Master,0,False,1179,0,1,0,0,1,1,1,2024,3
+The Vision,0,False,0,0,0,1,1,1,1,1,2027,0
+Bombs vs Bots,0,False,0,0,0,1,0,0,1,0,2027,0
+Echo Chamber,0,False,0,0,0,1,1,0,1,0,2027,0
+Mushroom Kid's Big Grass Sword,0,False,0,0,0,0,1,0,1,0,2027,0
+DOKODA,0,False,589,0,1,0,0,0,1,0,2024,0
+Siralim 3,0,False,1479,0,0,0,0,1,0,0,2018,1
+Hrolfr VS Evil Skulls,0,False,0,0,0,1,1,1,1,0,2027,0
+X-Morph: Defense,0,False,1999,0,0,1,0,0,1,1,2017,15
+Megaquarium,0,False,2549,0,1,0,0,0,1,1,2018,65
+Viking Survivors: The Last Ragnarök,0,False,0,0,1,1,0,1,1,0,2027,0
+Carly and the Reaperman - Escape from the Underworld,0,False,1679,0,1,0,1,0,1,0,2018,1
+Beat the Time,0,True,0,0,1,1,0,0,1,0,2021,0
+Isle of the Dead,0,False,239,0,1,0,0,0,1,0,2019,0
+Slime Kingdom,0,True,0,0,1,0,1,1,1,0,2018,0
+Home Safe and Silent,0,False,0,0,0,0,0,0,0,1,2027,0
+Realm Survivors,0,False,0,0,1,1,0,1,0,0,2027,0
+Super Sketch Bob,0,False,975,0,0,1,1,0,1,0,2023,0
+Stackflow,0,False,689,0,1,0,0,0,1,1,2025,3
+Skull Head World,0,False,399,0,0,1,0,0,1,0,2020,0
+Moonbriar,0,False,0,0,0,0,1,0,1,0,2027,0
+Rabbit vs Mole,0,False,499,0,1,0,0,0,1,1,2026,0
+VHS Vermin,0,False,699,0,0,1,1,0,1,0,2025,0
+Swords and Soldiers 2 Shawarmageddon,0,False,799,80,0,1,0,0,1,1,2018,1
+Bird Pro Skater,0,False,79,0,1,0,1,0,0,0,2021,0
+Byte of the Dead,0,False,199,0,0,1,0,0,1,0,2025,0
+The Housekeeper,0,False,399,0,1,0,1,0,1,0,2026,0
+System Purge: Hollow Point,0,False,0,0,0,1,0,0,1,0,2027,0
+Expeditions: Conquistador,0,False,1999,0,0,0,0,1,1,1,2013,5
+Defense of the Oasis,0,False,399,0,1,0,0,0,0,1,2020,0
+Bastion: Gauntlet of the Chosen,0,False,0,0,1,1,1,1,0,1,2027,0
+REGENERATE,0,False,0,0,0,1,0,0,1,0,2027,0
+Verne: The Shape of Fantasy,0,False,1499,75,0,0,1,0,1,0,2023,2
+Super Strike Champions,0,False,1179,0,1,1,0,0,1,0,2026,0
+I'm Surrounded by Classical Beauties!,0,False,299,0,1,0,0,1,1,0,2024,0
+BirdBalcony,0,False,0,0,1,0,0,0,1,0,2027,0
+Reloader: subject_alpha,0,False,0,0,1,1,0,0,1,1,2027,0
+Soul Ampz,0,False,0,0,0,0,1,1,1,0,2027,0
+The Elevator Game with Catgirls,0,False,1499,0,1,0,0,0,1,0,2022,0
+Totomi trainer,0,True,0,0,1,0,0,0,1,0,2024,0
+Interstellar Rift,0,False,1950,0,1,1,0,0,1,0,2020,6
+Flower Design,0,False,99,0,1,0,0,0,1,0,2017,0
+我来自江湖 From Jianghu,0,False,819,0,1,0,1,1,1,1,2020,24
+LOST CAVE,0,False,1679,0,1,1,1,0,1,0,2018,0
+Gun Paradise,0,False,779,0,0,1,0,1,0,0,2025,0
+Martha Madison: Electricity,0,False,199,0,1,0,0,0,1,0,2018,0
+LET IT DIE: INFERNO,0,False,2499,0,0,1,0,0,0,0,2025,4
+Screeps: Arena,0,False,1950,0,1,0,0,0,1,1,2025,4
+Scary Cargo,0,False,0,0,0,1,1,0,1,0,2027,0
+Endless Soul Light Solitaire,0,False,499,0,1,0,0,0,0,0,2021,0
+Hitman 2: Silent Assassin,16,False,899,90,0,1,0,0,0,0,2007,0
+卦藏千相：六爻卷,0,False,0,0,1,0,0,1,1,1,2027,0
+OverKill,0,False,109,0,1,1,0,0,1,0,2017,0
+Surviving Mars: Pioneer,0,False,2450,0,1,1,1,0,0,0,2025,0
+ShapeShifter,0,True,0,0,1,1,1,0,1,0,2025,0
+TunTunWorld,0,True,0,0,1,1,1,0,1,0,2025,0
+My Friend Toby,0,False,299,0,0,0,0,0,1,1,2024,0
+Ninja Tycoon,0,False,499,0,1,0,0,0,1,1,2018,0
+Mr. Saitou,0,False,1179,0,0,0,1,1,1,0,2023,0
+Kittens with Cannons,0,True,0,0,0,1,1,1,1,0,2027,0
+Birds Adventure,0,True,0,0,1,1,1,0,1,0,2024,0
+Mecha BREAK,0,True,0,0,1,1,0,0,0,0,2025,1917
+The Fake Freedom,0,True,0,0,1,0,0,0,1,0,2027,0
+Xappy Ship,0,False,399,0,1,1,0,0,1,0,2024,0
+Dopamine Racing,0,False,0,0,1,0,0,0,1,1,2027,0
+Casino World,0,True,0,0,1,0,0,0,0,0,2027,0
+PETS,0,False,499,0,0,1,0,0,1,0,2025,0
+うんこタイピング,0,False,819,0,1,0,1,0,1,0,2022,0
+Beneath,0,False,1999,0,0,1,1,0,0,0,2025,2
+Arcane Wilds,0,False,1749,0,1,0,0,0,0,1,2024,0
+Distraction Machine,0,False,1249,0,1,0,0,0,1,0,2023,0
+Scalf X,0,False,0,0,1,1,0,0,1,0,2027,0
+Superfly,0,False,1249,0,1,1,0,0,1,0,2022,3
+Rat Race,0,False,499,0,1,1,0,0,0,0,2024,0
+Blood On The Thames,0,False,1479,0,0,0,1,0,1,0,2024,0
+The Harvest,0,True,0,0,1,1,0,0,0,0,2027,0
+RevenBlade,0,True,0,0,0,1,0,0,0,0,2027,0
+Super Trench Attack 2,0,False,499,0,0,0,0,0,1,1,2015,0
+Unicycle Rage,0,False,975,0,1,0,0,0,1,0,2024,0
+"Oh, Bubba Lu! Live from the Apocalypse!",0,False,0,0,1,1,1,0,1,0,2027,0
+Undead Sentence,0,False,0,0,0,1,0,0,0,0,2027,0
+Slender Threads: Prologue,0,True,0,0,1,0,1,0,1,0,2021,1
+Viral EX,0,False,999,0,0,1,0,0,1,0,2017,0
+Melody's Melon Mania,0,True,0,0,1,0,0,0,0,1,2024,0
+Spam Text,0,False,239,0,1,0,0,0,1,0,2022,0
+Puzzle Quest: Galactrix,0,False,819,0,1,0,0,1,0,0,2009,0
+Dominos,0,False,0,0,1,0,0,0,1,1,2027,0
+Cozy Home,0,False,519,0,1,0,0,0,0,0,2026,0
+Homeworld: Vast Reaches,0,False,2899,0,1,0,0,0,0,1,2025,0
+Coin Harvest,0,False,0,0,1,0,0,0,0,0,2027,0
+Base of War,3,True,0,0,1,0,0,0,1,1,2023,0
+Pro Basketball Manager 2023,0,False,1499,45,1,0,0,0,1,1,2022,1
+Jumpers' mountain,0,False,0,0,1,0,1,0,1,0,2027,0
+Galactic Civilizations III,0,False,3049,0,0,0,0,0,0,1,2015,132
+Drop and Grow,0,False,499,20,1,0,0,0,1,0,2026,54
+Four Mini Kingdoms War,0,True,0,0,1,0,0,0,1,0,2025,0
+Scuff Slayer,0,False,209,0,0,1,1,1,1,0,2025,0
+Gunpoint,0,False,700,0,0,1,0,0,1,1,2013,2
+Angel Tear: Goddess Betrayed,0,False,1950,20,0,0,0,1,1,0,2024,2
+Autocrusher: Bumper Cars,0,False,399,0,1,1,0,0,1,0,2023,0
+TOXIKK™,0,True,0,0,1,1,0,0,1,0,2016,102
+Tiny Terraces,0,False,499,0,1,0,0,0,1,0,2025,378
+Remote Reaper: FPV Combat Drone Simulator,0,False,1825,20,1,1,0,0,1,0,2025,14
+Infinity Blaster,0,False,199,0,1,1,0,0,1,0,2024,0
+LYDIA: SWEET DREAMS,0,False,999,0,0,1,0,0,1,0,2016,0
+Gambamba,0,False,0,0,1,1,1,0,0,0,2027,0
+Gallop Champion,0,False,879,0,1,0,1,0,1,0,2024,0
+Yusetsu,0,False,1399,0,1,0,0,1,1,0,2022,2
+Haste,0,False,1899,0,1,1,1,0,1,0,2025,235
+Curse of the Ethereal Dragon,0,False,400,0,0,0,0,1,0,0,2026,0
+Ashes of Creation,0,False,0,0,1,1,1,1,1,1,2025,4
+PROJECT: PLAYTIME,0,True,0,0,1,1,0,0,1,0,2022,316
