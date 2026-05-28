@@ -13,8 +13,8 @@ def predict_steam_players(name, required_age, is_free, initial_price, discount_p
     features = np.array([[
         int(required_age),
         1 if is_free else 0,
-        int(initial_price),
-        int(discount_percent),
+        int(initial_price) if not is_free else 0,
+        int(discount_percent) if not is_free else 0,
         is_other, is_action, is_adventure, is_rpg, is_indie, is_strategy,
         int(release_year)
     ]])
