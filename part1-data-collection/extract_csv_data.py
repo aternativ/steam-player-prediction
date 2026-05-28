@@ -3,6 +3,7 @@ from sklearn.model_selection import train_test_split
 
 df = pd.DataFrame(pd.read_json("final_filtered_data.json"))
 
+# The answer to life, the universe, and everything :)
 train_df, test_df = train_test_split(df, test_size=0.27, random_state=42)
 
 train_df.to_csv("train.csv", index=False, encoding="utf-8")
